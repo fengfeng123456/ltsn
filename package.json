@@ -1,5 +1,5 @@
 {
-  "name": "ltsn",
+  "name": "ltsn-node",
   "version": "1.0.0",
   "description": "CommandLine Tool for Node LTS",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "Node",
     "LTS"
   ],
-  "author": "fengfeng",
+  "author": "fengfeng123456",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fengfeng123456/ltsn/issues"
